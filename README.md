@@ -1,4 +1,4 @@
-# Electromagnetic Fields - 2D Capacitor Numerical Simulation
+# Electromagnetic Fields - Final Project
 
 ## Overview
 This repository contains a numerical simulation for solving the 2D Laplace equation ($\nabla^2 \Phi = 0$) to determine the electric potential and electric field distribution within a complex capacitor structure. The solution is implemented using the Finite Difference Method (FDM) alongside a relaxation iterative process.
